@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/fay/Mukul/All of DC /4-2/sdpd/WorkingAR/libs/Vuforia.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="/media/fay/Mukul/All of DC /4-2/sdpd/WorkingAR/build/intermediates/pre-dexed/debug/Vuforia_df1bdb607f3f51b9d76d58025b8b6ff2924ed70a.jar" />
+    </item>
+    <item
+        jar="/media/fay/Mukul/All of DC /4-2/sdpd/WorkingAR/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6831a07fe24f06b4f2889e6d31760238eb59f861">
+        <dex dex="/media/fay/Mukul/All of DC /4-2/sdpd/WorkingAR/build/intermediates/pre-dexed/debug/unity-classes_79f1868a78cd54a1e6a5a6fb89040833704d48e0.jar" />
+    </item>
+    <item
+        jar="/media/fay/Mukul/All of DC /4-2/sdpd/WorkingAR/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="/media/fay/Mukul/All of DC /4-2/sdpd/WorkingAR/build/intermediates/pre-dexed/debug/VuforiaUnityPlayer_1100759e3214d335859a8837c02fdce4299aad5f.jar" />
+    </item>
+
+</items>
